@@ -16,9 +16,42 @@ import { Gear } from "phosphor-react";
 import { useState } from "react";
 import { faker } from "@faker-js/faker";
 import useSettings from "../../hooks/useSettings.js";
-import { NavLink } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 
+const getPath = (index) => {
+  switch (index) {
+    case 0:
 
+      return "/app"
+    case 1:
+      return "/group"
+
+    case 2:
+
+      return "/calling"
+    case 3:
+
+      return "/settings"
+
+    default:
+
+  }
+}
+
+const getMenu=(index)=>{
+  switch (index) {
+    case 0: return "/profile"
+    case 1: return "/settings"
+    case 2:
+      //update token and isauthenticated is false 
+    return "/auth/login"
+      
+   
+  
+    default:
+      break;
+  }
+}
 
 export default function SideBar() {
   const [selected, setSelected] = useState(0);
@@ -26,10 +59,12 @@ export default function SideBar() {
   const { onToggleMode } = useSettings();
   console.log(theme);
 
- 
+
 
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
+  const navigate = useNavigate()
+
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
   };
@@ -136,6 +171,7 @@ export default function SideBar() {
                   <IconButton
                     onClick={() => {
                       setSelected(ele.index);
+                      navigate(getPath(ele.index))
                     }}
                     key={ele.index}
                     sx={{
@@ -168,7 +204,9 @@ export default function SideBar() {
               ) : (
                 <IconButton
                   onClick={() => {
+                    navigate(getPath(3))
                     setSelected(3);
+
                   }}
                   sx={{
                     width: "max-content",
@@ -178,7 +216,7 @@ export default function SideBar() {
                         : theme.palette.text.primary,
                   }}
                 >
-                <NavLink to={'/settings'}>  <Gear  /></NavLink>
+                  <Gear />
                 </IconButton>
               )}
             </Stack>
@@ -209,21 +247,28 @@ export default function SideBar() {
                 "aria-labelledby": "basic-button",
               }}
               anchorOrigin={{
-                vertical:"bottom",
-                horizontal:"right"
+                vertical: "bottom",
+                horizontal: "right"
               }}
               transformOrigin={
                 {
-                  vertical:"bottom",
-                  horizontal:"left"
+                  vertical: "bottom",
+                  horizontal: "left"
                 }
               }
             >
               <Stack spacing={1} px={1}>
-                {Profile_Menu.map((ele) => {
+                {Profile_Menu.map((ele, index) => {
                   return (
-                    <MenuItem onClick={handleClick}>
+                    <MenuItem key={index} onClick={() => {
+                      handleClick()
+                      
+                    }}>
                       <Stack
+                        onClick={() => {
+                          
+                          navigate(getMenu(index))
+                        }}
                         sx={{
                           width: 100,
                           direction: "row",

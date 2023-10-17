@@ -20,7 +20,7 @@ const Profile_Menu = [
     icon: <Gear />,
   },
   {
-    title: "Profile",
+    title: "Log Out",
     icon: <SignOut />,
   },
 ];
@@ -46,7 +46,85 @@ const Nav_Setting = [
     icon: <GearSix />,
   },
 ];
-
+export const MemeberList = [
+  {
+    id: 0,
+    online:true,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+  },
+  {
+    id: 1,
+    online:true,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+  },
+  {
+    id: 2,
+    online:false,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+  },
+  {
+    id: 3,
+    online:true,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+  },
+  {
+    id: 4,
+    online:true,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+  },
+]
+ export const callLogs =[
+  {
+    id: 0,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+    msg: faker.music.songName(),
+    missed:false,
+    incoming:true,
+   pinned:true
+  },
+  {
+    id: 1,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+    msg: faker.music.songName(),
+    missed:true,
+    incoming:true,
+    pinned:true
+  },
+  {
+    id: 2,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+    msg: faker.music.songName(),
+    missed:false,
+    incoming:false,
+    pinned:true
+  },
+  {
+    id: 3,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+    msg: faker.music.songName(),
+    missed:true,
+    incoming:false,
+    pinned:false
+  },
+  {
+    id: 4,
+    img: faker.image.avatar(),
+    name: faker.name.firstName(),
+    msg: faker.music.songName(),
+    missed:false,
+    incoming:true,
+    pinned:false
+  },
+ ]
 const ChatList = [
   {
     id: 0,
