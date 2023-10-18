@@ -1,5 +1,5 @@
-<img width="400" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
-<img  width="400" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f989a694-e90d-4735-a390-fe4ce1c37eec"/>
+<img width="450" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
+<img  width="450" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f989a694-e90d-4735-a390-fe4ce1c37eec"/>
 <img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/ba5c3240-8f5a-459d-a31f-17111f4346ff"/>
 <img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/48e7b6b4-0f49-49fa-b654-356fabb0dd93"/>
 <img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f78ecf09-9db2-47b7-948a-7009faa1d10f"/>
