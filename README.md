@@ -1,16 +1,14 @@
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
-<img  width="500" src=" https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f989a694-e90d-4735-a390-fe4ce1c37eec"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/ba5c3240-8f5a-459d-a31f-17111f4346ff"/>
-
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/48e7b6b4-0f49-49fa-b654-356fabb0dd93"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f78ecf09-9db2-47b7-948a-7009faa1d10f"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/a17af267-81fd-4887-90e9-cfc69470d653"/>
-
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/45106eed-b8a5-4da1-b633-b4b4f874607b"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/2f33b0bc-6b9b-41cc-b9de-84acd9928c47"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/3cffee3a-ee95-407a-bc58-a28c92cca796"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f12ede6b-bf43-413c-bbf1-6388335218ca"/>
-<img width="500" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/fae6fbc4-6884-427b-90c0-7be20cf49f18"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
+<img  width="340" src=" https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f989a694-e90d-4735-a390-fe4ce1c37eec"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/ba5c3240-8f5a-459d-a31f-17111f4346ff"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/48e7b6b4-0f49-49fa-b654-356fabb0dd93"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f78ecf09-9db2-47b7-948a-7009faa1d10f"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/a17af267-81fd-4887-90e9-cfc69470d653"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/45106eed-b8a5-4da1-b633-b4b4f874607b"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/2f33b0bc-6b9b-41cc-b9de-84acd9928c47"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/3cffee3a-ee95-407a-bc58-a28c92cca796"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/f12ede6b-bf43-413c-bbf1-6388335218ca"/>
+<img width="340" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/fae6fbc4-6884-427b-90c0-7be20cf49f18"/>
 
 # Getting Started with Create React App
 
