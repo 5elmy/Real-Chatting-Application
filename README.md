@@ -1,4 +1,5 @@
 <img src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/45106eed-b8a5-4da1-b633-b4b4f874607b"/>
+<img src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
