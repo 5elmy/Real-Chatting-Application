@@ -1,6 +1,6 @@
 <div>
-<img  style=" width:300" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/45106eed-b8a5-4da1-b633-b4b4f874607b"/>
-<img  style=" width:300" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
+<img  width="300"src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/45106eed-b8a5-4da1-b633-b4b4f874607b"/>
+<img  width="300" src="https://github.com/5elmy/Real-Chatting-Application/assets/115832929/63c6e9ef-d051-4582-a96a-2afe39f8d7e4"/>
 </div>
 # Getting Started with Create React App
 
